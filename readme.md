@@ -23,3 +23,6 @@
 
  ° Comando para ler o status geral do projeto
  - 'git status'
+
+ ° Comando para setar uma conta
+ -  'git config --global user.email "nome@email.com"'
